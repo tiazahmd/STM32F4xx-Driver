@@ -1,0 +1,4 @@
+009I2CSlaveRxString.c:36:5:main	56	static
+009I2CSlaveRxString.c:55:6:I2C1_GPIOInits	24	static
+009I2CSlaveRxString.c:76:6:GPIO_Button_Init	24	static
+009I2CSlaveRxString.c:90:6:I2C1_Inits	8	static

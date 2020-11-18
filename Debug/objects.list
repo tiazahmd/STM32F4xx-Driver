@@ -1,0 +1,6 @@
+"Drivers/Src/stm32f4xx.o"
+"Drivers/Src/stm32f4xx_GPIO_Driver.o"
+"Drivers/Src/stm32f4xx_I2C_Driver.o"
+"Drivers/Src/stm32f4xx_SPI_Driver.o"
+"Src/009I2CSlaveRxString.o"
+"Startup/startup_stm32f411retx.o"
